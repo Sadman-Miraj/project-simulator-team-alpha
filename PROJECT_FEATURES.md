@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"Logout" 
+"Work as logout" 
+"**Status: Implemented**" 
+"" 
