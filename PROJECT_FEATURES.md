@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## Create Post: Users can delete travel recruitment posts" 
+"Implemented post creation with rich text editor, media upload, and location tagging." 
+"**Status: Implemented**" 
+"" 
