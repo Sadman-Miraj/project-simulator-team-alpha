@@ -2,3 +2,7 @@
 "## Notifications: System notifies users about activities" 
 "Implemented notification system for user activities, messages, and system updates." 
 "" 
+"## View Reports: Admin can view reported posts and user reports" 
+"Implemented admin report viewing interface with filtering and sorting capabilities." 
+"**Status: Done**" 
+"" 
