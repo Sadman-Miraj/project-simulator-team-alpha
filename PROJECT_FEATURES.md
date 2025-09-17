@@ -1,4 +1,9 @@
 "# Implemented Features" 
+## Resolve Reports: Admin can resolve reported issues and take action
+Implemented report resolution system with action tracking and user notifications.
+**Status: Done**
+
+
 "## View Post: Users can browse and view travel recruitment posts" 
 "Implemented post viewing with details, comments, and interaction features." 
 "**Status: Done**" 
