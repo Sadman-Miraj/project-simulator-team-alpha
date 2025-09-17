@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## Sign In: Users can log in to access their profiles" 
+"Implemented authentication system with secure login, session management, and error handling." 
+"**Status: Done**" 
+"" 
