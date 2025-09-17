@@ -1,4 +1,8 @@
 "# Implemented Features" 
+"## View Post: Users can browse and view travel recruitment posts" 
+"Implemented post viewing with details, comments, and interaction features." 
+"**Status: Done**" 
+
 "## Log Out: Users can securely log out of the system" 
 "Implemented secure logout functionality with session termination and cleanup." 
 "**Status: Done**" 
