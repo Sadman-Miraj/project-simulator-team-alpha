@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## View Post: Users can browse and view travel recruitment posts" 
+"Implemented post viewing with details, comments, and interaction features." 
+"**Status: Implemented**" 
+"" 
