@@ -1,4 +1,8 @@
 "# Implemented Features" 
+"## Create Post: Users can delete travel recruitment posts" 
+"Implemented post creation with rich text editor, media upload, and location tagging." 
+"**Status: Done**" 
+
 "## Notifications: System notifies users about activities" 
 "Implemented notification system for user activities, messages, and system updates." 
 "" 
