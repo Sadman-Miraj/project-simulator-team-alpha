@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## Sign Up: Users can create new accounts securely" 
+"Implemented user registration with email validation, password encryption, and confirmation process." 
+"**Status: Done**" 
+"" 
