@@ -1,4 +1,10 @@
 "# Implemented Features" 
+
+## Create Post: Users can create travel recruitment posts
+Implemented post creation with rich text editor, media upload, and location tagging.
+**Status:Done**
+
+
 "## Create Post: Users can delete travel recruitment posts" 
 "Implemented post creation with rich text editor, media upload, and location tagging." 
 "**Status: Done**" 
@@ -21,3 +27,4 @@
 "Implemented user registration with email validation, password encryption, and confirmation process." 
 "**Status: Done**" 
 "" 
+
