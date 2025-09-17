@@ -4,5 +4,16 @@
 "" 
 "## View Reports: Admin can view reported posts and user reports" 
 "Implemented admin report viewing interface with filtering and sorting capabilities." 
+
+"## Notifications: System notifies users about activities" 
+"Implemented notification system for user activities, messages, and system updates." 
+"**Status: Done**" 
+
+"## Sign In: Users can log in to access their profiles" 
+"Implemented authentication system with secure login, session management, and error handling." 
+"**Status: Done**" 
+
+"## Sign Up: Users can create new accounts securely" 
+"Implemented user registration with email validation, password encryption, and confirmation process." 
 "**Status: Done**" 
 "" 
