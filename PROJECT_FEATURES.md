@@ -7,7 +7,3 @@ Implemented report resolution system with action tracking and user notifications
 Implemented report resolution system with action tracking and user notifications.
 **Status: Implemented**
 
-## Report Post: Users can report inappropriate posts
-Implemented post reporting system with categories and evidence upload.
-**Status: Implemented**
-
