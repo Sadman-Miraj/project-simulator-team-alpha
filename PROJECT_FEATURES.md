@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## Notifications: System notifies users about activities" 
+"Implemented notification system for user activities, messages, and system updates." 
+"**Status: Implemented**" 
+"" 
